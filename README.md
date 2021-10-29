@@ -4,4 +4,4 @@
 
 #### predict.json file used for prediction
 
-##### Here navier byes algorithm used which is ost suitable for NLP
+##### Here navier byes algorithm used which is most suitable for NLP
